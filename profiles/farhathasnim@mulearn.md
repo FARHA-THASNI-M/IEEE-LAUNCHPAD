@@ -4,7 +4,7 @@
 
 > Hey! Certainly! Here's the revised paragraph:
 
-"I'm Farha Thasni M, a final-year Computer Science Engineering student at MES College of Engineering, currently working as a web developer intern at Tecnavis Web Solution Pvt Ltd. With a strong background in leadership as the former chairperson of the CS society of IEEE SB MESCE and experience as the volunteer secretary of NSS Unit 602, I possess excellent organizational and teamwork skills. My passion lies in web and software development, where I've crafted projects using React and other technologies, reflecting my dedication and enthusiasm for coding. As I near graduation, my goal is to secure a position in a reputable company, where I can leverage my skills and contribute to impactful projects."
+I'm Farha Thasni M, a final-year Computer Science Engineering student at MES College of Engineering, currently working as a web developer intern at Tecnavis Web Solution Pvt Ltd. With a strong background in leadership as the former chairperson of the CS society of IEEE SB MESCE and experience as the volunteer secretary of NSS Unit 602, I possess excellent organizational and teamwork skills. My passion lies in web and software development, where I've crafted projects using React and other technologies, reflecting my dedication and enthusiasm for coding. As I near graduation, my goal is to secure a position in a reputable company, where I can leverage my skills and contribute to impactful projects.
 
 ## Portfolio Highlights
 
